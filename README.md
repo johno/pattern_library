@@ -3,10 +3,10 @@ pattern_library
 
 A collection of patterns to follow in order to ensure consistent, readable code.
 
--[HTML](#HTML)
--[CSS](#CSS)
--[Ruby on Rails](#ruby-on-rails)
--[Resources](#resources)
+ * [HTML](#HTML)
+ * [CSS](#CSS)
+ * [Ruby on Rails](#ruby-on-rails)
+ * [Resources](#resources)
 
 ## HTML
 
