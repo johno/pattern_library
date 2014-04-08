@@ -38,7 +38,7 @@ Don't include leading "0"'s in values between -1 and 1.
 opacity: .7;
 ```
 
-Use hyphens in ID/Class selectors.
+Use hyphens in ID/Class selectors to separate words.
 
 ```css
 .my-class {
