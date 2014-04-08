@@ -23,6 +23,22 @@ There are always exceptions, so don't take this as gospel.
 
 ## CSS
 
+Below is a summary of the most important components, for a more in-depth guide, please see <http://codeguide.co/>.
+
+### Selectors
+
+Use hyphens in ID/Class selectors to separate words.
+
+```css
+.my-class {
+  /* ... */
+}
+
+#my-id {
+  /* ... */
+}
+```
+
 ### Values
 
 Omit the units for 0 values.
@@ -36,18 +52,6 @@ Don't include leading "0"'s in values between -1 and 1.
 
 ```css
 opacity: .7;
-```
-
-Use hyphens in ID/Class selectors to separate words.
-
-```css
-.my-class {
-  /* ... */
-}
-
-#my-id {
-  /* ... */
-}
 ```
 
 ## Ruby on Rails
